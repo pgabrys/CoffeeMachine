@@ -1,0 +1,83 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "doctor".(Çù©Ò
+V
+java:S1854";Remove this useless assignment to local variable "general".(è¨¡ªşÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "knight3".(†‘»…ûÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "knight2".(…ÑÓÏüÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "knight1".(¾ëÒç
+O
+java:S1854	"9Remove this useless assignment to local variable "unit5".(”–ê°
+T
+java:S1854"9Remove this useless assignment to local variable "unit4".(¨…™ûûÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "unit3".(ëó
+T
+java:S1854"9Remove this useless assignment to local variable "unit2".( ŞÈÁúÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "unit1".(ÿÓ±×ÿÿÿÿÿ
+?
+java:S2440"$Remove this instantiation of "Unit".(ÿÓ±×ÿÿÿÿÿ
+E
+java:S1481"*Remove this unused "unit1" local variable.(ÿÓ±×ÿÿÿÿÿ
+?
+java:S2440"$Remove this instantiation of "Unit".( ŞÈÁúÿÿÿÿ
+E
+java:S1481"*Remove this unused "unit2" local variable.( ŞÈÁúÿÿÿÿ
+:
+java:S2440"$Remove this instantiation of "Unit".(ëó
+@
+java:S1481"*Remove this unused "unit3" local variable.(ëó
+?
+java:S2440"$Remove this instantiation of "Unit".(¨…™ûûÿÿÿÿ
+E
+java:S1481"*Remove this unused "unit4" local variable.(¨…™ûûÿÿÿÿ
+:
+java:S2440	"$Remove this instantiation of "Unit".(”–ê°
+@
+java:S1481	"*Remove this unused "unit5" local variable.(”–ê°
+<
+java:S2440"&Remove this instantiation of "Knight".(¾ëÒç
+B
+java:S1481",Remove this unused "knight1" local variable.(¾ëÒç
+A
+java:S2440"&Remove this instantiation of "Knight".(…ÑÓÏüÿÿÿÿ
+G
+java:S1481",Remove this unused "knight2" local variable.(…ÑÓÏüÿÿÿÿ
+A
+java:S2440"&Remove this instantiation of "Knight".(†‘»…ûÿÿÿÿ
+G
+java:S1481",Remove this unused "knight3" local variable.(†‘»…ûÿÿÿÿ
+B
+java:S2440"'Remove this instantiation of "General".(è¨¡ªşÿÿÿÿ
+G
+java:S1481",Remove this unused "general" local variable.(è¨¡ªşÿÿÿÿ
+<
+java:S2440"&Remove this instantiation of "Doctor".(Çù©Ò
+A
+java:S1481"+Remove this unused "doctor" local variable.(Çù©Ò
+8
+java:S1118"Hide this public constructor.(Œ´…ùÿÿÿÿ
+;
+java:S3010"%Remove this assignment of "nameUnit".(Äÿê‰
+8
+java:S1118%"Hide this public constructor.(Ö¸ü†ùÿÿÿÿ
+=
+java:S3010'"'Remove this assignment of "nameKnight".(¤ğã
+3
+java:S11180"Hide this public constructor.(š¸¬
+C
+java:S30102"(Remove this assignment of "nameGeneral".(Â•Øøÿÿÿÿ
+8
+java:S1118;"Hide this public constructor.(›Æ¥ğûÿÿÿÿ
+B
+java:S3010="'Remove this assignment of "nameDoctor".(ß×¨şúÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(‚±ïëúÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(Úîåä
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(ñÛƒ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(îÛ›Ëşÿÿÿÿ
+0
+java:S1220""Move this file to a named package.

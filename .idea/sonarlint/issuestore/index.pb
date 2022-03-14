@@ -51,3 +51,7 @@ Q
 .Topics/Objects/Change identities/src/Main.java,f\2\f27a26580a03988fabcc1bddbaf26654aa5da430
 b
 2Topics/Static members/Time constants/src/Main.java,0\0\00ebcba7fd4e9845a4c2a3b57de58cbab3c2e281
+_
+/Topics/Enums in Java/Days of week/src/Main.java,f\9\f9470c6810b0df816c9d7231abb94b55c50efd6c
+[
++Coffee Machine/task/src/machine/States.java,9\9\9988b47d9d3c1309864c2620e01f08987b5bf8b5

@@ -1,8 +1,8 @@
 package machine;
-
 import java.util.Scanner;
 
 public class Commands {
+
 
     static int water = 400;
     static int milk = 540;
@@ -23,6 +23,10 @@ public class Commands {
     static int milkForCappuccino = 100;
     static int coffeeBeansForCappuccino = 12;
     static int costOfCappuccino = 6;
+
+    public static void welcome() {
+        System.out.println("\n Write action (buy, fill, take, remaining, exit):");
+    }
 
 
     public static void fill() {

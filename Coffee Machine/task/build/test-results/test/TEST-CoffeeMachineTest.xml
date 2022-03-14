@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CoffeeMachineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-13T18:12:27" hostname="PIOTREK-PC" time="0.23">
+<testsuite name="CoffeeMachineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-14T16:57:26" hostname="PIOTREK-PC" time="0.264">
   <properties/>
-  <testcase name="start" classname="CoffeeMachineTest" time="0.23"/>
+  <testcase name="start" classname="CoffeeMachineTest" time="0.264"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -16,21 +16,21 @@ The coffee machine has:
 $550 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > buy
 
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 2
 I have enough resources, making you a coffee!
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > buy
 
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 2
 Sorry, not enough water!
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > fill
 
 Write how many ml of water you want to add:
@@ -42,19 +42,19 @@ Write how many grams of coffee beans you wan to add:
 Write how many disposable cups of coffee you want to add:
 > 0
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > buy
 
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 2
 I have enough resources, making you a coffee!
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > take
 
 I gave you $564
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -65,13 +65,13 @@ The coffee machine has:
 $0 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > exit
 
 ?[1;31m
 Start test 2?[0m
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -82,7 +82,7 @@ The coffee machine has:
 $550 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > fill
 
 Write how many ml of water you want to add:
@@ -94,7 +94,7 @@ Write how many grams of coffee beans you wan to add:
 Write how many disposable cups of coffee you want to add:
 > 3000
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -105,13 +105,13 @@ The coffee machine has:
 $550 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > exit
 
 ?[1;31m
 Start test 3?[0m
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -122,14 +122,14 @@ The coffee machine has:
 $550 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > buy
 
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 1
 I have enough resources, making you a coffee!
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -140,13 +140,13 @@ The coffee machine has:
 $554 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > exit
 
 ?[1;31m
 Start test 4?[0m
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -157,14 +157,14 @@ The coffee machine has:
 $550 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > buy
 
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 2
 I have enough resources, making you a coffee!
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -175,13 +175,13 @@ The coffee machine has:
 $557 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > exit
 
 ?[1;31m
 Start test 5?[0m
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -192,14 +192,14 @@ The coffee machine has:
 $550 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > buy
 
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 3
 I have enough resources, making you a coffee!
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -210,13 +210,13 @@ The coffee machine has:
 $556 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > exit
 
 ?[1;31m
 Start test 6?[0m
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -227,12 +227,12 @@ The coffee machine has:
 $550 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > take
 
 I gave you $550
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -243,13 +243,13 @@ The coffee machine has:
 $0 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > exit
 
 ?[1;31m
 Start test 7?[0m
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -260,13 +260,13 @@ The coffee machine has:
 $550 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > buy
 
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > back
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > remaining
 
 The coffee machine has:
@@ -277,7 +277,7 @@ The coffee machine has:
 $550 of money
 
 
-Write action (buy, fill, take, remaining, exit):
+ Write action (buy, fill, take, remaining, exit):
 > exit
 
 ]]></system-out>

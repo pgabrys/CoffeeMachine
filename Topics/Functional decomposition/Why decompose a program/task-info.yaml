@@ -1,5 +1,11 @@
 type: choice
-is_multiple_choice: false
+is_multiple_choice: true
+options:
+- text: Decomposed program uses less memory.
+- text: The code looks more readable.
+- text: Separate parts of code are easier to test.
+- text: Decomposed program works faster.
+- text: The code is easier to reuse.
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

@@ -1,5 +1,10 @@
 type: choice
 is_multiple_choice: false
+options:
+- text: A class does not have objects
+- text: A class always has the same number of objects
+- text: An object of a class cannot be copied
+- text: The value of an object of this class cannot be changed
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

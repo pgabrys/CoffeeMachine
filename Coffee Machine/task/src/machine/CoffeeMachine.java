@@ -2,6 +2,8 @@ package machine;
 
 import java.util.Scanner;
 
+import static machine.Commands.welcome;
+
 public class CoffeeMachine {
     public static void main(String[] args) {
       Scanner scanner = new Scanner(System.in);
@@ -9,8 +11,7 @@ public class CoffeeMachine {
 
 
         do {
-            System.out.println("");
-            System.out.println("Write action (buy, fill, take, remaining, exit):");
+            welcome();
             String option = scanner.next();
             System.out.println("");
         switch (option) {
